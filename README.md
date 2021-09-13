@@ -12,3 +12,10 @@ Soon I will make this readme better with more info on how to tune this model you
 
 # Notes
 - MoCoV2 implementation was made by taking the MoCoV1 implementation from [lightly](https://docs.lightly.ai/tutorials/package/tutorial_moco_memory_bank.html) and making some tweaks.
+
+# @TODO
+## Code
+- figure out why histograms dont work in moco_model.py
+## Other stuff
+- Add results (graphs and stuff)
+- Describe files/classes/functions
