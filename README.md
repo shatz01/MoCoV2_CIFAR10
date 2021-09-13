@@ -12,6 +12,9 @@ Soon I will make this readme better with more info on how to tune this model you
 
 # Notes
 - MoCoV2 implementation was made by taking the MoCoV1 implementation from [lightly](https://docs.lightly.ai/tutorials/package/tutorial_moco_memory_bank.html) and making some tweaks.
+- Original MoCo paper: https://arxiv.org/abs/1911.05722
+- MoCoV2 paper: https://arxiv.org/abs/2003.04297
+- CIFAR10 website: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
 
 # @TODO
 ## Code
